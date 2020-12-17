@@ -1,0 +1,50 @@
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+.billboard {
+    height: 30vh;
+    background-color: gray;
+    margin-bottom: 30px;
+}
+.industries {
+    float:left;
+    width: 30%;
+}
+.card-list {
+    float: right;
+    width: 70%;
+}
+.browsebox {
+    width: 80%;
+    margin:auto;
+}
+
+/* Billboard */
+.billboard h1 {
+    text-align:center;
+}
+
+/* Searchbar */
+.searchbar {
+    margin: auto;
+    width: 50%;
+    height: 50px;
+}
+#searchbox {
+    width: 80%;
+    height: 100%;
+}
+#searchbutton {
+    width: 20%;
+    height: 100%;
+}
+
+/* Cards */
+.card {
+    width: 80%;
+    background-color: gray;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
