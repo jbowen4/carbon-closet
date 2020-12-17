@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/carbon-closet/static/js/main.cf598958.chunk.js",
+    "main.js.map": "/carbon-closet/static/js/main.cf598958.chunk.js.map",
+    "runtime-main.js": "/carbon-closet/static/js/runtime-main.60148e42.js",
+    "runtime-main.js.map": "/carbon-closet/static/js/runtime-main.60148e42.js.map",
+    "static/js/2.8a606213.chunk.js": "/carbon-closet/static/js/2.8a606213.chunk.js",
+    "static/js/2.8a606213.chunk.js.map": "/carbon-closet/static/js/2.8a606213.chunk.js.map",
+    "index.html": "/carbon-closet/index.html",
+    "static/js/2.8a606213.chunk.js.LICENSE.txt": "/carbon-closet/static/js/2.8a606213.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60148e42.js",
+    "static/js/2.8a606213.chunk.js",
+    "static/js/main.cf598958.chunk.js"
+  ]
+}
