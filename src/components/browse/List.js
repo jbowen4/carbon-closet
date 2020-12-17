@@ -37,7 +37,7 @@ const industries = [
 const links = industries.map(industry => {
     return (
         <li key={industry.id}>
-            <Item name={industry.name} checked={industry.checked}></Item>
+            <Item name={industry.name}></Item>
         </li>
     )
 })
